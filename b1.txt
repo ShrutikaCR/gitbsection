@@ -1,13 +1,7 @@
 hello
 world
 Acharya
-<<<<<<< HEAD
-=======
 institute
 of
 technology
-<<<<<<< HEAD
->>>>>>> eef4142 (feature third commit)
-=======
 bangalore
->>>>>>> 77dcc4c (feature fourth commit)
