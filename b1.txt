@@ -1,3 +1,9 @@
 hello
 world
 Acharya
+<<<<<<< HEAD
+=======
+institute
+of
+technology
+>>>>>>> eef4142 (feature third commit)
