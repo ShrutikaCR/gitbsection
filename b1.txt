@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello hi
 world
 Acharya
@@ -7,3 +8,6 @@ technology
 bangalore
 karnataka
 soladevanahalli
+=======
+learning git merge with custom commit message
+>>>>>>> feature
