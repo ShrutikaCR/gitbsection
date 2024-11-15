@@ -1,1 +1,2 @@
 learning git merge today
+alogn with tag and logs
