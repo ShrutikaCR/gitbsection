@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+hello hi
+world
+Acharya
+institute
+of
+technology
+bangalore
+karnataka
+soladevanahalli
+=======
 learning git merge with custom commit message
+>>>>>>> feature
